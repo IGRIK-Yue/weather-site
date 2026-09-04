@@ -1,0 +1,25 @@
+{
+  "city": "Київ",
+  "generated_at": "2026-09-01T09:00:00+03:00",
+  "note": "Дані згенеровано автоматично для навчальних
+           цілей і не є реальним прогнозом",
+  "current": {
+    "temperature_c": 21,
+    "feels_like_c": 19,
+    "humidity_percent": 62,
+    "wind_speed_ms": 4,
+    "condition": "Мінлива хмарність"
+  },
+  "forecast_5_days": [
+    { "date": "2026-09-02", "temp_min_c": 14,
+      "temp_max_c": 22, "condition": "Сонячно" },
+    { "date": "2026-09-03", "temp_min_c": 15,
+      "temp_max_c": 20, "condition": "Хмарно" },
+    { "date": "2026-09-04", "temp_min_c": 13,
+      "temp_max_c": 18, "condition": "Дощ" },
+    { "date": "2026-09-05", "temp_min_c": 12,
+      "temp_max_c": 19, "condition": "Мінлива хмарність" },
+    { "date": "2026-09-06", "temp_min_c": 16,
+      "temp_max_c": 23, "condition": "Сонячно" }
+  ]
+}
